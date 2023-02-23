@@ -97,3 +97,22 @@
     flex:1;
     
   }
+  .New-York{
+    margin-right:34px;
+    font-weight: bold;
+    margin-bottom:20px;
+  }
+  .name{
+    display: flex;
+    justify-content: flex-end;
+    margin-right:15rem;
+  }
+  .up{
+    background-color:#3882F6;
+    font-weight: bold;
+  color:#F9FAF8;
+  padding: 90px;
+  
+  margin:64px;
+  font-size:34px;
+  }
