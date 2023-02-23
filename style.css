@@ -102,6 +102,12 @@
     font-weight: bold;
     margin-bottom:20px;
   }
+  .quote{
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    color:#1F2937;
+  }
   .name{
     display: flex;
     justify-content: flex-end;
@@ -115,4 +121,26 @@
   
   margin:64px;
   font-size:34px;
+  }
+  .here{
+    font-size:18px;
+    color:#F9FAF8;
+  }
+  
+  .second{
+    margin-left:60rem;
+    background-color: #3882F6;
+    color:#F9FAF8;
+    border:#F9FAF8 solid;
+    padding:0px 22px;
+    font-weight: bold;
+    font-size:24px;
+    border-radius:8px;
+  }
+  .footer{
+    display:flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding:20px;
+    color:#F9FAF8
   }
