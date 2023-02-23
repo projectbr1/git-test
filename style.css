@@ -51,3 +51,31 @@
     gap:-8px;
    
   }
+  .Description{
+    color:#F9FAF8;
+    font-size:48px;
+    font-weight: extra-bold;
+    margin-left:32px;
+   padding-left:32px;
+   margin-bottom:0em;
+   margin-right:48px;
+  }
+  .story{
+    color: #F9FAF8;
+    font-size: 18px;
+    display: flex;
+  }
+  .button{
+    padding:16px;
+    border-radius:8px;
+    margin-left: 60px;
+    background-color: #3882F6;
+    color:#F9FAF8;
+  }
+  .places{
+    text-align:center;
+    font-weight: BOLD;
+    font-size:36px;
+    color:#1F2937;
+    margin: 20px 0px;
+  }
