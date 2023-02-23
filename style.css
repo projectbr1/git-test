@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .color{
+    background-color: #1F2937;
+  }
+  
+  body{
+    display: flex;
+    flex-direction: column;
+  }
+  .nav{
+    display: flex;
+    list-style-type: none;
+    padding:0;
+    margin-right:34px;
+    color:#F9FAF8;
+    font-size: 18px;
+    gap:30px;
+  }
+  .header{
+    display:flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+    margin-bottom: 34px;
+    
+  }
+  .head{
+    font-size:24px;
+    color:#F9FAF8;
+    margin-left:32px;
+   padding-left: 32px;
+   width:200px;
+   height:auto;
+  
+  }
