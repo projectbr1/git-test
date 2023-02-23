@@ -79,3 +79,21 @@
     color:#1F2937;
     margin: 20px 0px;
   }
+  .pictures{
+ 
+    display:flex;
+    justify-content: center;
+    gap:52px;
+    margin-bottom:20px;
+  }
+  .text{
+    text-align: center;
+  }
+  .info{
+    max-width: 200;
+  }
+  .third{
+    background-color: #E5E7EB;
+    flex:1;
+    
+  }
